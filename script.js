@@ -112,5 +112,3 @@ searchBtn.addEventListener("click",() => {
         }
 })
 
-// cowinData(110001);
-// cowinData(462030);
